@@ -34,7 +34,7 @@ jobs:
             git config --local user.name "GitHub Action"
             git add .
             git commit -m "docs(action): Update README.md"
-            git push https://open17@github.com/open17/slides.git HEAD:main
+            git push https://ALLENYGY@github.com/ALLENYGY/slides.git HEAD:main
             exit 0
           fi
 
@@ -50,7 +50,7 @@ jobs:
           git add .
           git commit -m "feat(action): Generate page"
           git pull
-          git push --force https://open17@github.com/open17/slides.git HEAD:vercel
+          git push --force https://ALLENYGY@github.com/ALLENYGY/slides.git HEAD:vercel
       
       - name: Move files
         run: |
@@ -63,5 +63,5 @@ jobs:
           git add .
           git commit -m "feat(action): Generate page"
           git pull
-          git push --force https://open17@github.com/open17/slides.git HEAD:pages
+          git push --force https://ALLENYGY@github.com/ALLENYGY/slides.git HEAD:pages
       
