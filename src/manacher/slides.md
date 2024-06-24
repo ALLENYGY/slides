@@ -1,7 +1,7 @@
 ---
 Create Time: 22nd June 2024
 Title: Manacher
-status: DONE
+status: DONEg
 dg-publish: true
 Author:
   - AllenYGY
