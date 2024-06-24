@@ -1,6 +1,6 @@
 ---
 # try also 'default' to start simple
-theme: seriph
+theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://cover.sli.dev
@@ -23,10 +23,10 @@ mdc: true
 
 ---
 
-## [[alphafold2]]
+## Alphafold2
 
-- [[alphafold2]] 被 *《Science》* 评选为2021年AI在科学界最大的突破
-- [[alphafold2]] 把通过氨基酸序列对蛋白质三维结构预测的误差，降低到原子级别
+- Alphafold2 被 *《Science》* 评选为2021年AI在科学界最大的突破
+- Alphafold2 把通过氨基酸序列对蛋白质三维结构预测的误差，降低到原子级别
 
 ---
 
@@ -151,7 +151,7 @@ transition: slide-up
 
 - 输出的矩阵维度不发生变化, *c*发生变化
 
-<img src="https://cdn.jsdelivr.net/gh/ALLENYGY/ImageSpace@master/IMAGE/Research/AlphaFold/EncoderOutput.png" alt="EncoderOutput.png" style="zoom:50%;" align="right"/>
+![EncoderOutput.png](https://cdn.jsdelivr.net/gh/ALLENYGY/ImageSpace@master/IMAGE/Research/AlphaFold/EncoderOutput.png)
 
 ---
 
@@ -166,7 +166,7 @@ transition: slide-up
 - Backbone frames
 	- 氨基酸序列主干的空间结构
 
-<img src="https://cdn.jsdelivr.net/gh/ALLENYGY/ImageSpace@master/IMAGE/Research/Decoder/Decoder.png" alt="Decoder" style="zoom:50%;" />
+![Decoder](https://cdn.jsdelivr.net/gh/ALLENYGY/ImageSpace@master/IMAGE/Research/Decoder/Decoder.png)
 
 ---
 
@@ -274,3 +274,5 @@ transition: slide-up
 ---
 
 # [Transformer](https://arxiv.org/abs/1706.03762)
+
+---
