@@ -13,4 +13,18 @@ github page为备用预览路线,不太稳定,且推荐海外路线访问
 
 <!-- start -->
 
+
+
+## manacher 
+- [vercel预览](https://slides.ALLENYGY.vip/slides/manacher) 
+- [github page预览](https://ALLENYGY.github.io/slides/manacher)  
+
+## alphafold2 
+- [vercel预览](https://slides.ALLENYGY.vip/slides/alphafold2) 
+- [github page预览](https://ALLENYGY.github.io/slides/alphafold2)  
+
+## example 
+- [vercel预览](https://slides.ALLENYGY.vip/slides/example) 
+- [github page预览](https://ALLENYGY.github.io/slides/example)  
+
 <!-- end -->
